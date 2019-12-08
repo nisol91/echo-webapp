@@ -27,7 +27,7 @@ class App extends Component {
       <I18nextProvider i18n={i18n}>
         <Router>
           <div className="contenitore">
-            <Navbar></Navbar>
+            {/* <Navbar></Navbar> */}
             <div className="main" onClick={this.hideNav}>
               <Route exact path="/" component={Home} />
               <Route path="/about" component={About} />
