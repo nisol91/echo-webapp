@@ -34,7 +34,7 @@
     "react-transition-group": "^4.2.1",
     "reactstrap": "^8.0.1",
     "styled-components": "^4.3.2",
-    "three": "^0.108.0",
+    "three": "^0.137.0",
     "three-orbitcontrols": "^2.102.2"
   },
   "scripts": {
